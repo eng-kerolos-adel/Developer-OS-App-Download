@@ -45,11 +45,68 @@ Download the latest APK directly:
 
 ---
 
+━━━━━━━━━━━━━━━━
+📁 PROJECTS & GITHUB
+━━━━━━━━━━━━━━━━
+
+- Manage unlimited projects with Kanban boards and timelines
+- Connect GitHub and auto-import all your repositories
+- AI generates project descriptions, roadmaps, and full README files
+- Track tasks, deadlines, and progress with precision
+
+━━━━━━━━━━━━━━━━
+🤖 AI-POWERED BY GEMINI
+━━━━━━━━━━━━━━━━
+
+- Auto-generate project details from just a name
+- Write your professional developer bio automatically
+- Create professional README files in seconds
+- Smart task suggestions based on your projects
+
+━━━━━━━━━━━━━━━━
+🏆 ACHIEVEMENTS & LEVELS
+━━━━━━━━━━━━━━━━
+
+- 30+ developer badges to unlock
+- Daily and weekly challenges
+- Shareable achievement board
+- Progress toward your next career level
+
+━━━━━━━━━━━━━━━━
+📚 LEARNING & GROWTH
+━━━━━━━━━━━━━━━━
+
+- Flash Cards with SM-2 Spaced Repetition algorithm
+- Personal learning library: books, courses, videos
+- Certificate and skills tracker
+- Personalized learning roadmap by specialization
+
+━━━━━━━━━━━━━━━━
+💼 FREELANCE MANAGER
+━━━━━━━━━━━━━━━━
+
+- Client management and contract tracking
+- Professional invoice generation with PDF export
+- Multi-currency support (USD, EUR, EGP and more)
+- Revenue analytics and business overview
+
+━━━━━━━━━━━━━━━━
+🔐 SECURITY & PRIVACY
+━━━━━━━━━━━━━━━━
+
+- App lock with fingerprint & Face ID
+- Encrypted PIN protection
+- Your data on Firebase — encrypted and private
+- Zero ads. Zero data selling. Ever.
+
+---
+
 ## 🏷 Version & Updates
 
 | Version | Date       | Notes                                      |
 | ------- | ---------- | ------------------------------------------ |
 | v1.0    | 2026-03-18 | Initial release, signed APK, core features |
+| v2.0    | 2026-04-02 | Second release, added new features         |
 
 ---
 
