@@ -2,8 +2,8 @@
 
 ![Developer OS Banner](/assets/banner.png)
 
-[![Version](https://img.shields.io/badge/version-v1.0-blue)](https://github.com/eng-kerolos-adel/Developer-OS-App-Download/releases/tag/v1.0)
-[![Download](https://img.shields.io/badge/Download-APK-green)](https://github.com/eng-kerolos-adel/Developer-OS-App-Download/releases/download/v1.0/Developer-OS.apk)
+[![Version](https://img.shields.io/badge/version-v2.0-blue)](https://github.com/eng-kerolos-adel/Developer-OS-App-Download/releases/tag/v2.0)
+[![Download](https://img.shields.io/badge/Download-APK-green)](https://github.com/eng-kerolos-adel/Developer-OS-App-Download/releases/download/v2.0/Developer-OS.apk)
 [![License](https://img.shields.io/badge/license-MIT-orange)](https://github.com/eng-kerolos-adel/Developer-OS-App-Download/blob/main/LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen)](#)
 [![Platform](https://img.shields.io/badge/platform-Android-blueviolet)](#)
@@ -29,7 +29,7 @@ The app is **fully signed, verified, and safe** to install.
 
 Download the latest APK directly:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/eng-kerolos-adel/Developer-OS-App-Download/releases/download/v1.0/Developer-OS.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/eng-kerolos-adel/Developer-OS-App-Download/releases/download/v2.0/Developer-OS.apk)
 
 > ⚠️ Enable **installation from unknown sources** on your Android device.
 
